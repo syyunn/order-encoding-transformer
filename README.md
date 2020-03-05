@@ -1,5 +1,5 @@
 # order-encoding-transformer
-where order corresponds to possible multiple meanings in \Bbb R 
+where order represent possible multiple meanings with \Bbb R
 
 ## Basic Idea
 
